@@ -2,7 +2,7 @@
 20k words recorded first-hand in Oman, Kuwait, and the UAE. Machina Mundi's dataset for Conversational Arabic improves LLM's understanding and minimizes the lack of understanding caused by the predominant white-collar Arabic used. This is the first of its kind dataset.
 
 # Project POLLEN: Oman Field Research
-## Preserving Oral Language & Linguistic Equity through Neural-networks
+## Preserving Oral Language & Linguistic Equity through Natural-Language-Collection
 
 > *"If the data doesn't speak your language, the model doesn't hear your voice."*
 
