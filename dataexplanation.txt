@@ -69,23 +69,9 @@ DATA STRUCTURE:
 ---------------
 Each entry contains:
 - Original text/conversation
-- Context information (setting, formality level, participant demographics)
-- Cultural notes and explanations
-- Translation/interpretation where needed
-- Linguistic tags (code-switching markers, slang indicators)
-- Regional variation notes
-- Temporal markers (when expression was collected)
+- Context information (setting, formality level, participant demographics) ##if needed
+- Cultural notes and explanations ##if needed
 
-SAMPLE ENTRY FORMAT:
--------------------
-[ENTRY_ID]: [Unique identifier]
-[CONTEXT]: [Social setting and situation]
-[PARTICIPANTS]: [Anonymous demographic info]
-[ORIGINAL_TEXT]: [Exact linguistic data as collected]
-[CULTURAL_NOTES]: [Explanation of references, humor, significance]
-[LINGUISTIC_TAGS]: [Code-switching, slang, regional markers]
-[TIMESTAMP]: [Collection date/period]
-[VALIDATION]: [Native speaker confirmation status]
 
 INTENDED USE:
 -------------
@@ -139,7 +125,7 @@ TECHNICAL SPECIFICATIONS:
 ACCESS & ATTRIBUTION:
 ---------------------
 This dataset is part of the broader Machina Mundi initiative's commitment to 
-linguistic equity in AI. Any use of this data should:
+linguistic equity in LLM training. Any use of this data should:
 - Acknowledge the contributing Omani youth communities
 - Prioritize community benefit in applications
 - Respect cultural contexts and sensitivities  
